@@ -1,4 +1,4 @@
-# Kubernetes & Bare-Metal Server Management Agent
+# K8gent: Kubernetes & Bare-Metal Server Provisioning Agent
 
 This project implements a sophisticated AI agent using the LangChain framework to automate the management of bare-metal servers and Kubernetes clusters. The agent is equipped with a comprehensive suite of tools that allow it to interact with Dell iDRAC for hardware management via the Redfish API and with remote servers via SSH. It can perform tasks ranging from checking server status and configuring RAID to deploying an operating system and setting up a Kubernetes cluster.
 
