@@ -79,7 +79,7 @@ The agent is capable of following a set of instructions from a text file hosted 
 
 To trigger the full Ubuntu installation and Kubernetes deployment workflow, use the following prompt, replacing the URL with the location of your instruction file:
 ```
-You: Follow the instructions in this document that is on an nginx server: [http://100.80.20.18:8080/prompt.txt](http://100.80.20.18:8080/prompt.txt)
+Follow the instructions in this document that is on an nginx server: [http://100.80.20.18:8080/prompt.txt]
 ```
 
 ## 🛠️ Agent Tools
